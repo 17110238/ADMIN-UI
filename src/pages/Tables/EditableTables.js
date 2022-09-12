@@ -41,7 +41,7 @@ const EditableTables = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Editable Tables | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Editable Tables | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
           <Breadcrumbs maintitle="Veltrix" title="Tables" breadcrumbItem="Editable Table" />

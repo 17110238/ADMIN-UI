@@ -18,7 +18,7 @@ const EmailInbox = () => {
     <React.Fragment>
       <div className="page-content">
       <MetaTags>
-        <title>Inbox | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+        <title>Inbox | UI Sample</title>
       </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}

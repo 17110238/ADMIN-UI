@@ -73,7 +73,7 @@ const UiModal = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Modals | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Modals | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Modals" />

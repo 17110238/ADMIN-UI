@@ -19,7 +19,7 @@ const BasicTable = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Basic Tables | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Basic Tables | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
           <Breadcrumbs maintitle="Veltrix" title="Tables" breadcrumbItem="Basic Tables" />

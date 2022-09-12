@@ -12,7 +12,7 @@ const EmailAlertTemplte = props => {
       <div className="page-content">
         <Container fluid>
         <MetaTags>
-          <title>Alert Email | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Alert Email | UI Sample</title>
         </MetaTags>
           <Breadcrumbs maintitle="Veltrix" title="Email Template" breadcrumbItem="Alert Email" />
 

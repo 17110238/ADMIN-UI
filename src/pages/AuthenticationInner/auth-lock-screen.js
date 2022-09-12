@@ -15,7 +15,7 @@ const LockScreen = () => {
   return (
     <React.Fragment>
       <MetaTags>
-        <title>Lock Screen | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+        <title>Lock Screen | UI Sample</title>
       </MetaTags>
       <div className="home-btn d-none d-sm-block">
         <Link to="dashboard" className="text-dark">

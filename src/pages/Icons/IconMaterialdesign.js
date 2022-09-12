@@ -23473,7 +23473,7 @@ const IconMaterialdesign = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Material Design | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Material Design | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
           <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Material Design" />

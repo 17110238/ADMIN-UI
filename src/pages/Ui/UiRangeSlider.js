@@ -41,7 +41,7 @@ const UiRangeSlider = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Range Slider | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Range Slider | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Range Slider" />

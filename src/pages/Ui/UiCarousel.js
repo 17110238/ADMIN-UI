@@ -25,7 +25,7 @@ const UiCarousel = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Carousel | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Carousel | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Carousel" />

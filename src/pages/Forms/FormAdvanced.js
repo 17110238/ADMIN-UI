@@ -371,7 +371,7 @@ const FormAdvanced = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Form Advanced | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Form Advanced | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form Advanced" />

@@ -24,7 +24,7 @@ const BlogDetails = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Blog Details | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Blog Details | UI Sample</title>
         </MetaTags>
         <Container fluid>
           <Breadcrumbs maintitle="Veltrix" title="Blog" breadcrumbItem="Blog Details" />

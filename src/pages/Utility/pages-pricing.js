@@ -76,7 +76,7 @@ const PagesPricing = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Pricing | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Pricing | UI Sample</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}

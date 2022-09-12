@@ -16,7 +16,7 @@ const TwostepVerification2 = () => {
     <React.Fragment>
       <div>
       <MetaTags>
-          <title>Two Step Verification 2 | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Two Step Verification 2 | UI Sample</title>
         </MetaTags>
         <div className="container-fluid p-0">
           <div className="row g-0">

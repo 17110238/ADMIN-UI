@@ -57,7 +57,7 @@ const IconBoxicons = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Boxicons | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Boxicons | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Boxicons" />

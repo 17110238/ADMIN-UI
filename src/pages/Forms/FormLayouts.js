@@ -23,7 +23,7 @@ const FormLayouts = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Form Layouts | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Form Layouts | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form Layouts" />

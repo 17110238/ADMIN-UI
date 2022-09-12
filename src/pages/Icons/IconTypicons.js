@@ -11,7 +11,7 @@ const IconTypicons = props => {
 
             <div className="page-content">
                 <MetaTags>
-                    <title>Typicons Icons | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+                    <title>Typicons Icons | UI Sample</title>
                 </MetaTags>
                 <Container fluid={true}>
                     <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Typicons Icons" />

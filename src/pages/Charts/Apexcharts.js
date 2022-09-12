@@ -17,7 +17,7 @@ const Apexchart = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Apex Charts | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Apex Charts | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
           <Breadcrumbs maintitle="Veltrix" title="Charts" breadcrumbItem="Apex Charts" />

@@ -63,7 +63,7 @@ const IconFontawesome = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Font awesome | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Font awesome | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Font awesome" />

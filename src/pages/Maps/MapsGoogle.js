@@ -21,7 +21,7 @@ const MapsGoogle = props => {
     <React.Fragment>
       <div className="page-content">
       <MetaTags>
-          <title>Google Maps | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Google Maps | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
           <Breadcrumbs maintitle="Veltrix" title="Maps" breadcrumbItem="Google Maps" />

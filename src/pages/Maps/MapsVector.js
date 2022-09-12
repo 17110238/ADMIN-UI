@@ -19,7 +19,7 @@ const MapsVector = () => {
     <React.Fragment>
       <div className="page-content">
       <MetaTags>
-          <title>Vector Maps | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Vector Maps | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Maps" breadcrumbItem="Vector Maps" />

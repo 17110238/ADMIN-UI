@@ -22,7 +22,7 @@ const EmailRead = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Read Email | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Read Email | UI Sample</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}

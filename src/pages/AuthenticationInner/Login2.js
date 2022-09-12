@@ -12,7 +12,7 @@ const Login2 = () => {
     <React.Fragment>
       <div className="account-pages">
         <MetaTags>
-          <title>Login 2 | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Login 2 | UI Sample</title>
         </MetaTags>
 
           <div

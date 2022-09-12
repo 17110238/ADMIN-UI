@@ -12,7 +12,7 @@ const ResponsiveTables = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Responsive Tables | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Responsive Tables | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
           <Breadcrumbs maintitle="Veltrix" title="Tables" breadcrumbItem="Responsive Table" />

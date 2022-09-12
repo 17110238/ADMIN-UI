@@ -36,7 +36,7 @@ const UiRating = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Rating | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Rating | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Rating" />

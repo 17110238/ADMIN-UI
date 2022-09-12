@@ -54,7 +54,7 @@ const Dashboard = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Dashboard | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Dashboard | UI Sample</title>
         </MetaTags>
         <Container fluid>
           <div className="page-title-box">

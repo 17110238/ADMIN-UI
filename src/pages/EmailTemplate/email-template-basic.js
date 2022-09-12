@@ -12,7 +12,7 @@ const EmailBasicTemplte = () => {
       <div className="page-content">
         <div className="container-fluid">
         <MetaTags>
-          <title>Basic Action Email | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Basic Action Email | UI Sample</title>
         </MetaTags>
           <Breadcrumbs maintitle="Veltrix" title="Email Template" breadcrumbItem="Basic Action Email" />
           <Row className="email-template">

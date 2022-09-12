@@ -11,7 +11,7 @@ const Register2 = () => {
   return (
     <React.Fragment>
       <MetaTags>
-          <title>Register 2 | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Register 2 | UI Sample</title>
         </MetaTags>
         <div
           className="accountbg"

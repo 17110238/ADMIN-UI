@@ -9,7 +9,7 @@ const IconThemify = props => {
         <React.Fragment>
             <div className="page-content">
                 <MetaTags>
-                    <title>Themify Icons | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+                    <title>Themify Icons | UI Sample</title>
                 </MetaTags>
                 <Container fluid={true}>
                     <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Themify Icons" />

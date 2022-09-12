@@ -20,7 +20,7 @@ const EChart = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>ECharts | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>ECharts | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           {/* Render Breadcrumb */}

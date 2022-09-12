@@ -34,7 +34,7 @@ const FormElements = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Form Elements | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Form Elements | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form Elements" />

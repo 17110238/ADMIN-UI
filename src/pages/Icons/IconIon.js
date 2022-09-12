@@ -11,7 +11,7 @@ const IconIon = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Ion Icons | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Ion Icons | UI Sample</title>
         </MetaTags>
         <Container fluid>
           <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Ion Icons" />

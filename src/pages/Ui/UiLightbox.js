@@ -51,7 +51,7 @@ const UiLightbox = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Lightbox | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Lightbox | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Lightbox" />

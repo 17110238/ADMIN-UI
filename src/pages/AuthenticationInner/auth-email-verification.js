@@ -12,7 +12,7 @@ const EmailVerification = () => {
     <React.Fragment>
       <div className="account-pages my-5 pt-sm-5">
       <MetaTags>
-          <title>Email Verification | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Email Verification | UI Sample</title>
         </MetaTags>
         <Container>
           <Row>

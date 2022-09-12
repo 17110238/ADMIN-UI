@@ -70,7 +70,7 @@ class UiSessionTimeout extends Component {
       <React.Fragment>
         <div className="page-content">
         <MetaTags>
-          <title>Session Timeout | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Session Timeout | UI Sample</title>
         </MetaTags>
           <Container fluid={true}>
             {this.state.timeralert}

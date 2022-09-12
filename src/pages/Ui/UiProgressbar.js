@@ -10,7 +10,7 @@ const UiProgressbar = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Progress Bars | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Progress Bars | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Progress Bars" />

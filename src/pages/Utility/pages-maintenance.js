@@ -11,7 +11,7 @@ const PagesMaintenance = () => {
   return (
     <React.Fragment>
        <MetaTags>
-          <title>Maintenance | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Maintenance | UI Sample</title>
         </MetaTags>
         <div className="home-btn d-none d-sm-block">
             <Link to="/" className="text-dark">

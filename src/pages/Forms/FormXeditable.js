@@ -21,7 +21,7 @@ const FormXeditable = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Form Xeditable | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Form Xeditable | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form Xeditable" />

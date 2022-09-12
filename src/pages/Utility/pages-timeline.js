@@ -16,7 +16,7 @@ const PagesTimeline = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Timeline | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Timeline | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
           {/* Render Breadcrumbs */}

@@ -14,7 +14,7 @@ const PagesInvoice = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Invoice | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Invoice | UI Sample</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}

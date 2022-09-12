@@ -18,7 +18,7 @@ const ChartjsChart = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Chartjs Charts | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Chartjs Charts | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Charts" breadcrumbItem="Chartjs Charts" />

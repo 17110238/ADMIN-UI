@@ -164,7 +164,7 @@ class UiTabsAccordions extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Tabs & Accordions | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+            <title>Tabs & Accordions | UI Sample</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs

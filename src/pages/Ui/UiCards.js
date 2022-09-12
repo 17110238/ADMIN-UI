@@ -36,7 +36,7 @@ const UiCards = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Cards | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Cards | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Cards" />

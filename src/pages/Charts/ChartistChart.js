@@ -23,7 +23,7 @@ const ChartistChart = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Chartist Charts | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Chartist Charts | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Charts" breadcrumbItem="Chartist Charts" />

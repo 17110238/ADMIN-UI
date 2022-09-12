@@ -10,7 +10,7 @@ const UiColors = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Colors | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Colors | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Colors" />

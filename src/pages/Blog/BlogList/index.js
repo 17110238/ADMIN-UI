@@ -13,7 +13,7 @@ function index(props) {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Blog List | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Blog List | UI Sample</title>
         </MetaTags>
         <Container fluid>
           <Breadcrumbs maintitle="Veltrix" title="Blog" breadcrumbItem="Blog List" />

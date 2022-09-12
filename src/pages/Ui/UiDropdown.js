@@ -51,7 +51,7 @@ const UiDropdown = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Dropdowns | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Dropdowns | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Dropdowns" />

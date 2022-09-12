@@ -11,7 +11,7 @@ const Recoverpw2 = () => {
   return (
     <React.Fragment>
       <MetaTags>
-          <title>Recover Password 2 | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Recover Password 2 | UI Sample</title>
         </MetaTags>
         <div
           className="accountbg"

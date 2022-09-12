@@ -21,7 +21,7 @@ const UiAlert = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Alerts | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Alerts | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Alerts" />

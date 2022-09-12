@@ -12,7 +12,7 @@ const ConfirmMail = () => {
     <React.Fragment>
       <div className="account-pages my-5 pt-sm-5">
       <MetaTags>
-          <title>Confirm Mail | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Confirm Mail | UI Sample</title>
         </MetaTags>
         <Container>
           <Row>

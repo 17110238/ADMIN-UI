@@ -11,7 +11,7 @@ const UiVideo = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Video | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Video | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Video" />

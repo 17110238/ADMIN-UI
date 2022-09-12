@@ -24,7 +24,7 @@ const FormEditors = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Form Editors | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Form Editors | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form Editors" />

@@ -11,7 +11,7 @@ const IconDripicons = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Dripicons | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Dripicons | UI Sample</title>
         </MetaTags>
         <Container fluid>
           <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Dripicons" />

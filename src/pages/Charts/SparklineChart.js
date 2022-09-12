@@ -18,7 +18,7 @@ const SparklineChart = () => {
     <React.Fragment>
       <div className="page-content">
       <MetaTags>
-          <title>Sparkline Charts | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Sparkline Charts | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
           {/* Render Breadcrumb */}

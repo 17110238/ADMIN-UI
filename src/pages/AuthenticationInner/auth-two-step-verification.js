@@ -24,7 +24,7 @@ const TwostepVerification = () => {
       <React.Fragment>
         <div className="account-pages my-5 pt-sm-5">
         <MetaTags>
-          <title>Two Step Verification | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Two Step Verification | UI Sample</title>
         </MetaTags>
           <Container>
             <Row>

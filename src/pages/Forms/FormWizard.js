@@ -68,7 +68,7 @@ const FormWizard = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Form Wizard | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Form Wizard | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Forms" breadcrumbItem="Form Wizard" />

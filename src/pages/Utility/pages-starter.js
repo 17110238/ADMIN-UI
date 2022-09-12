@@ -10,7 +10,7 @@ const PagesStarter = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Starter Page | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Starter Page | UI Sample</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}

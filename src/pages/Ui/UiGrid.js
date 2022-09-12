@@ -19,7 +19,7 @@ const UiGrid = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Grid | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Grid | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Grid" />

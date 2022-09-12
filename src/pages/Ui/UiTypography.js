@@ -18,7 +18,7 @@ const UiTypography = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Typography | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Typography | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Typography" />

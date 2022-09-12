@@ -511,7 +511,7 @@ const DatatableTables = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Data Tables | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Data Tables | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
           <Breadcrumbs maintitle="Veltrix" title="Tables" breadcrumbItem="Data Tables" />

@@ -28,7 +28,7 @@ const PagesFaqs = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>FAQs | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>FAQs | UI Sample</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}

@@ -40,7 +40,7 @@ const UiGeneral = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>General | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>General | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="General" />

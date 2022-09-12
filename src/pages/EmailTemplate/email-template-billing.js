@@ -11,7 +11,7 @@ const EmailTemplateBilling = props => {
       <div className="page-content">
         <Container fluid>
         <MetaTags>
-          <title>Billing Email | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Billing Email | UI Sample</title>
         </MetaTags>
           <Breadcrumbs
             title="Email Template"

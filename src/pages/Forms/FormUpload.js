@@ -47,7 +47,7 @@ const FormUpload = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Form File Upload | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Form File Upload | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form File Upload" />

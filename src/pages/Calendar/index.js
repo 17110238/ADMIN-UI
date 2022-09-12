@@ -185,7 +185,7 @@ const Calender = props => {
       />
       <div className="page-content">
         <MetaTags>
-          <title>Calender | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Calender | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           {/* Render Breadcrumb */}

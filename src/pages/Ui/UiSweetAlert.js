@@ -84,7 +84,7 @@ const UiSweetAlert = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>SweetAlert | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>SweetAlert | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="SweetAlert" />

@@ -37,7 +37,7 @@ class Layout extends Component {
     // let currentage = this.capitalizeFirstLetter(this.props.location.pathname)
 
     // document.title =
-    //   currentage + " | Veltrix - Responsive Bootstrap 5 Admin Dashboard"
+    //   currentage + " | UI Sample"
     if (this.props.leftSideBarTheme) {
       this.props.changeSidebarTheme(this.props.leftSideBarTheme)
     }

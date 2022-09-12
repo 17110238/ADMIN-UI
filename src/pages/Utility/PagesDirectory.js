@@ -22,7 +22,7 @@ const PagesDirectory = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Directory | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Directory | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
           {/* Render Breadcrumbs */}

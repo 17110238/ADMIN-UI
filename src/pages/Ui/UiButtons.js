@@ -24,7 +24,7 @@ const UiButtons = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Buttons | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Buttons | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
           <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Buttons" />

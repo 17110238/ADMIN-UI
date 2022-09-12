@@ -19,7 +19,7 @@ const MapsLeaflet = () => {
     <React.Fragment>
       <div className="page-content">
       <MetaTags>
-          <title>Leaflet Maps | Veltrix - Responsive Bootstrap 5 Admin Dashboard</title>
+          <title>Leaflet Maps | UI Sample</title>
         </MetaTags>
         <Container fluid>
           <Breadcrumbs maintitle="Veltrix" title="Maps" breadcrumbItem="Leaflet Maps" />
