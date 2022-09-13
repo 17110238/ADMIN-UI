@@ -24,7 +24,7 @@ const FormXeditable = () => {
           <title>Form Xeditable | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form Xeditable" />
+          <Breadcrumbs maintitle="Home"  title="Form" breadcrumbItem="Form Xeditable" />
 
           <Row>
             <Col>

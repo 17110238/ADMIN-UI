@@ -23476,7 +23476,7 @@ const IconMaterialdesign = props => {
           <title>Material Design | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
-          <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Material Design" />
+          <Breadcrumbs maintitle="Home"  title="Icons" breadcrumbItem="Material Design" />
 
           <Row className="icons-demo-content">
             <Col xs="12">

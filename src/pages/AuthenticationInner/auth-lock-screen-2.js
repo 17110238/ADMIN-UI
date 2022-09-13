@@ -1,6 +1,6 @@
 import React from "react"
 import MetaTags from 'react-meta-tags';
-import logoDark from "../../assets/images/logo-dark.png";
+import logoDark from "../../assets/images/logo-dark.jpg";
 import user6 from "../../assets/images/users/user-6.jpg";
 import bg from "../../assets/images/bg.jpg";
 import { Link } from "react-router-dom"
@@ -82,7 +82,7 @@ const LockScreen2 = () => {
                     <p>
                       © {new Date().getFullYear()} Sunlife{" "}
                       <i className="mdi mdi-heart text-danger"></i> by
-                        Themesbrand
+                        VNIT
                       </p>
                   </div>
                 </div>

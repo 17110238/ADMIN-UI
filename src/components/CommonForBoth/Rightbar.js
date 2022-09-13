@@ -115,7 +115,7 @@ const RightSidebar = props => {
 
               <div className="radio-toolbar">
                 <span className="mb-2 d-block" id="radio-title">
-                  Topbar Theme
+                Topbar Theme
                 </span>
                 <input
                   type="radio"
@@ -148,7 +148,7 @@ const RightSidebar = props => {
                 {"   "}
               </div>
 
-              {props.layoutType === "vertical" ? (
+              {props.layoutType !== "horizontal" ? (
                 <React.Fragment>
                   <hr className="mt-1" />
                   <div className="radio-toolbar">

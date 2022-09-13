@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { Row, Col, Card, CardBody, Button, Container } from "reactstrap"
 import MetaTags from 'react-meta-tags';
-import logolight from "../../assets/images/logo-light.png"
+import logolight from "../../assets/images/logo-light.jpg"
 
 //SweetAlert
 import SweetAlert from "react-bootstrap-sweetalert"
@@ -87,7 +87,7 @@ const UiSweetAlert = () => {
           <title>SweetAlert | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="SweetAlert" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="SweetAlert" />
 
           {success_dlg ? (
             <SweetAlert

@@ -24,7 +24,7 @@ const EChart = () => {
         </MetaTags>
         <Container fluid={true}>
           {/* Render Breadcrumb */}
-          <Breadcrumbs maintitle="Veltrix" title="Charts" breadcrumbItem="ECharts" />
+          <Breadcrumbs maintitle="Home"  title="Charts" breadcrumbItem="ECharts" />
           <Row>
             <Col lg="6">
               <Card>

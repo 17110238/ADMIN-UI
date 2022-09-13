@@ -21,7 +21,7 @@ const UiTypography = () => {
           <title>Typography | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Typography" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Typography" />
 
           <Row>
             <Col lg={6}>

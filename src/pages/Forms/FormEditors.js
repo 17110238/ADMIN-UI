@@ -27,7 +27,7 @@ const FormEditors = () => {
           <title>Form Editors | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form Editors" />
+          <Breadcrumbs maintitle="Home"  title="Form" breadcrumbItem="Form Editors" />
 
           <Row>
             <Col>

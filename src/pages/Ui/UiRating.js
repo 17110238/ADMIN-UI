@@ -39,7 +39,7 @@ const UiRating = () => {
           <title>Rating | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Rating" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Rating" />
 
           <Row>
             <Col className="col-12">

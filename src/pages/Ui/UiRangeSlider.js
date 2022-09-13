@@ -44,7 +44,7 @@ const UiRangeSlider = () => {
           <title>Range Slider | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Range Slider" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Range Slider" />
 
           <Row>
             <Col className="col-12">

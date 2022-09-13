@@ -16,7 +16,7 @@ const index = props => {
           <title>Blog Grid | UI Sample</title>
         </MetaTags>
         <Container fluid>
-          <Breadcrumbs maintitle="Veltrix" title="Blog" breadcrumbItem="Blog Grid" />
+          <Breadcrumbs maintitle="Home"  title="Blog" breadcrumbItem="Blog Grid" />
           <Row>
             <BlogGrid />
             <RightBar />

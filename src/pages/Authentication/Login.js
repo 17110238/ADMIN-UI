@@ -15,7 +15,7 @@ import { AvForm, AvField } from "availity-reactstrap-validation"
 import { loginUser, apiError } from "../../store/actions"
 
 // import images
-import logoSm from "../../assets/images/logo-sm.png";
+import logoSm from "../../assets/images/logo-sm.jpg";
 
 const Login = props => {
   // handleValidSubmit
@@ -68,7 +68,7 @@ const Login = props => {
                         <AvField
                           name="email"
                           label="Email"
-                          value="admin@themesbrand.com"
+                          value="admin@sunlife.com"
                           className="form-control"
                           placeholder="Enter email"
                           type="email"

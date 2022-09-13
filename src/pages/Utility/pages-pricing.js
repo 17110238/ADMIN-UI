@@ -80,7 +80,7 @@ const PagesPricing = () => {
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}
-          <Breadcrumbs maintitle="Veltrix" title="Extra Pages" breadcrumbItem="Pricing" />
+          <Breadcrumbs maintitle="Home"  title="Extra Pages" breadcrumbItem="Pricing" />
 
           <Row>
             {pricings.map((pricing, key) => (

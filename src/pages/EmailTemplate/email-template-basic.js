@@ -14,7 +14,7 @@ const EmailBasicTemplte = () => {
         <MetaTags>
           <title>Basic Action Email | UI Sample</title>
         </MetaTags>
-          <Breadcrumbs maintitle="Veltrix" title="Email Template" breadcrumbItem="Basic Action Email" />
+          <Breadcrumbs maintitle="Home"  title="Email Template" breadcrumbItem="Basic Action Email" />
           <Row className="email-template">
             <Col md="12">
               <table

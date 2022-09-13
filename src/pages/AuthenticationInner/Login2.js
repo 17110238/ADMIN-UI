@@ -5,7 +5,7 @@ import { Col, Container, Row, Card } from "reactstrap"
 
 // import images
 import bg from "../../assets/images/bg.jpg";
-import logoDark from "../../assets/images/logo-dark.png";
+import logoDark from "../../assets/images/logo-dark.jpg";
 
 const Login2 = () => {
   return (
@@ -115,7 +115,7 @@ const Login2 = () => {
                         <p>
                           © {new Date().getFullYear()} Sunlife{" "}
                           <i className="mdi mdi-heart text-danger"></i> by
-                        Themesbrand
+                        VNIT
                       </p>
                       </div>
                     </div>

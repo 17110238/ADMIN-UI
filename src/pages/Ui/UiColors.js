@@ -13,7 +13,7 @@ const UiColors = () => {
           <title>Colors | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Colors" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Colors" />
 
           <Row>
             <Col xl={3} md={6}>

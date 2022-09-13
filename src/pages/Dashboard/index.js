@@ -61,9 +61,6 @@ const Dashboard = props => {
             <Row className="align-items-center">
               <Col md={8}>
                 <h6 className="page-title">Dashboard</h6>
-                <ol className="breadcrumb m-0">
-                  <li className="breadcrumb-item active">Welcome to Veltrix Dashboard</li>
-                </ol>
               </Col>
 
               <Col md="4">

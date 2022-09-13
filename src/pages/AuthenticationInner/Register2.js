@@ -5,7 +5,7 @@ import { Card, Row } from "reactstrap"
 
 // import images
 import bg from "../../assets/images/bg.jpg";
-import logoDark from "../../assets/images/logo-dark.png";
+import logoDark from "../../assets/images/logo-dark.jpg";
 
 const Register2 = () => {
   return (
@@ -108,7 +108,7 @@ const Register2 = () => {
                       <p>
                         © {new Date().getFullYear()} Sunlife{" "}
                         <i className="mdi mdi-heart text-danger"></i> by
-                        Themesbrand
+                        VNIT
                       </p>
                     </div>
                   </div>

@@ -21,7 +21,7 @@ const ChartjsChart = () => {
           <title>Chartjs Charts | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Charts" breadcrumbItem="Chartjs Charts" />
+          <Breadcrumbs maintitle="Home"  title="Charts" breadcrumbItem="Chartjs Charts" />
           <Row>
             <Col lg={6}>
               <Card>

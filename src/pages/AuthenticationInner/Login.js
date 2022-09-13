@@ -9,7 +9,7 @@ import { Row, Col, CardBody, Card, Container } from "reactstrap"
 import { AvForm, AvField } from "availity-reactstrap-validation"
 
 // import images
-import logoSm from "../../assets/images/logo-sm.png";
+import logoSm from "../../assets/images/logo-sm.jpg";
 
 const Login = () => {
   return (

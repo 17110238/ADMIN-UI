@@ -6,7 +6,7 @@ import { Link } from "react-router-dom"
 //Import Breadcrumb
 import Breadcrumbs from "../../components/Common/Breadcrumb"
 
-import logoSm from "../../assets/images/logo-sm.png";
+import logoSm from "../../assets/images/logo-sm.jpg";
 
 const PagesInvoice = () => {
 
@@ -18,7 +18,7 @@ const PagesInvoice = () => {
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}
-          <Breadcrumbs maintitle="Veltrix" title="Extra Pages" breadcrumbItem="Invoice" />
+          <Breadcrumbs maintitle="Home"  title="Extra Pages" breadcrumbItem="Invoice" />
           <Row>
             <div className="col-12">
               <Card>

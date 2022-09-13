@@ -15,7 +15,7 @@ const ResponsiveTables = () => {
           <title>Responsive Tables | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
-          <Breadcrumbs maintitle="Veltrix" title="Tables" breadcrumbItem="Responsive Table" />
+          <Breadcrumbs maintitle="Home"  title="Tables" breadcrumbItem="Responsive Table" />
 
           <Row>
             <Col>

@@ -374,7 +374,7 @@ const FormAdvanced = () => {
           <title>Form Advanced | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form Advanced" />
+          <Breadcrumbs maintitle="Home"  title="Form" breadcrumbItem="Form Advanced" />
 
           <Row>
             <Col lg="12">

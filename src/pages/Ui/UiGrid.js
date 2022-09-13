@@ -22,7 +22,7 @@ const UiGrid = () => {
           <title>Grid | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Grid" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Grid" />
 
           <Row>
             <Col>

@@ -64,7 +64,7 @@ const UserProfile = props => {
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumb */}
-          <Breadcrumb title="Veltrix" breadcrumbItem="Profile" />
+          <Breadcrumb title="Home"  breadcrumbItem="Profile" />
 
           <Row>
             <Col lg="12">

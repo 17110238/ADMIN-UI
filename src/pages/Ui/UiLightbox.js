@@ -54,7 +54,7 @@ const UiLightbox = () => {
           <title>Lightbox | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Lightbox" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Lightbox" />
 
           {isFits ? (
             <Lightbox
@@ -134,7 +134,7 @@ const UiLightbox = () => {
                             setisFits(true)
                           }}
                           className="img-fluid"
-                          alt="Veltrix"
+                          alt="Home" 
                           src={img2}
                           width="145"
                         />

@@ -514,7 +514,7 @@ const DatatableTables = () => {
           <title>Data Tables | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
-          <Breadcrumbs maintitle="Veltrix" title="Tables" breadcrumbItem="Data Tables" />
+          <Breadcrumbs maintitle="Home"  title="Tables" breadcrumbItem="Data Tables" />
 
           <Row>
             <Col className="col-12">

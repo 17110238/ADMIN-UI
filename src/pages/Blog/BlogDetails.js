@@ -27,7 +27,7 @@ const BlogDetails = () => {
           <title>Blog Details | UI Sample</title>
         </MetaTags>
         <Container fluid>
-          <Breadcrumbs maintitle="Veltrix" title="Blog" breadcrumbItem="Blog Details" />
+          <Breadcrumbs maintitle="Home"  title="Blog" breadcrumbItem="Blog Details" />
           <Row>
             <Col lg={12}>
               <Card>

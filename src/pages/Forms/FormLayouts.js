@@ -26,7 +26,7 @@ const FormLayouts = props => {
           <title>Form Layouts | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form Layouts" />
+          <Breadcrumbs maintitle="Home"  title="Form" breadcrumbItem="Form Layouts" />
           <Row>
             <Col lg={6}>
               <Card>

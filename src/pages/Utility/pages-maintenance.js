@@ -5,7 +5,7 @@ import { Card, CardBody, Row, Col } from "reactstrap"
 
 //Import Images
 import maintenanceImg from "../../assets/images/maintenance.png";
-import logoDark from "../../assets/images/logo-dark.png";
+import logoDark from "../../assets/images/logo-dark.jpg";
 
 const PagesMaintenance = () => {
   return (

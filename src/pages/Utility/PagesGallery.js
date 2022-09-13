@@ -170,7 +170,7 @@ const PagesGallery = () => {
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}
-          <Breadcrumbs maintitle="Veltrix" title="Extra Pages" breadcrumbItem="Gallery" />
+          <Breadcrumbs maintitle="Home"  title="Extra Pages" breadcrumbItem="Gallery" />
 
 
           <div className="row">

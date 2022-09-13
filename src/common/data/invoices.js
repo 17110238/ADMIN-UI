@@ -18,17 +18,17 @@ const invoiceList = [
       items: [
         {
           id: 1,
-          item: "Veltrix - Bootstrap 4 Admin Dashboard",
+          item: "Sunlife Admin Dashboard",
           price: "$499.00",
         },
         {
           id: 2,
-          item: "Veltrix - Bootstrap 4 Landing Template",
+          item: "Sunlife  Landing Template",
           price: "$399.00",
         },
         {
           id: 3,
-          item: "Veltrix - Bootstrap 4 Admin Template",
+          item: "Sunlife  Admin Template",
           price: "$499.00",
         },
       ],
@@ -56,17 +56,17 @@ const invoiceList = [
       items: [
         {
           id: 1,
-          item: "Veltrix - Bootstrap 4 Admin Dashboard",
+          item: "Sunlife Admin Dashboard",
           price: "$499.00",
         },
         {
           id: 2,
-          item: "Veltrix - Bootstrap 4 Landing Template",
+          item: "Sunlife  Landing Template",
           price: "$399.00",
         },
         {
           id: 3,
-          item: "Veltrix - Bootstrap 4 Admin Template",
+          item: "Sunlife  Admin Template",
           price: "$499.00",
         },
       ],
@@ -94,17 +94,17 @@ const invoiceList = [
       items: [
         {
           id: 1,
-          item: "Veltrix - Bootstrap 4 Admin Dashboard",
+          item: "Sunlife Admin Dashboard",
           price: "$499.00",
         },
         {
           id: 2,
-          item: "Veltrix - Bootstrap 4 Landing Template",
+          item: "Sunlife  Landing Template",
           price: "$399.00",
         },
         {
           id: 3,
-          item: "Veltrix - Bootstrap 4 Admin Template",
+          item: "Sunlife  Admin Template",
           price: "$499.00",
         },
       ],
@@ -132,17 +132,17 @@ const invoiceList = [
       items: [
         {
           id: 1,
-          item: "Veltrix - Bootstrap 4 Admin Dashboard",
+          item: "Sunlife Admin Dashboard",
           price: "$499.00",
         },
         {
           id: 2,
-          item: "Veltrix - Bootstrap 4 Landing Template",
+          item: "Sunlife  Landing Template",
           price: "$399.00",
         },
         {
           id: 3,
-          item: "Veltrix - Bootstrap 4 Admin Template",
+          item: "Sunlife  Admin Template",
           price: "$499.00",
         },
       ],
@@ -170,17 +170,17 @@ const invoiceList = [
       items: [
         {
           id: 1,
-          item: "Veltrix - Bootstrap 4 Admin Dashboard",
+          item: "Sunlife Admin Dashboard",
           price: "$499.00",
         },
         {
           id: 2,
-          item: "Veltrix - Bootstrap 4 Landing Template",
+          item: "Sunlife  Landing Template",
           price: "$399.00",
         },
         {
           id: 3,
-          item: "Veltrix - Bootstrap 4 Admin Template",
+          item: "Sunlife  Admin Template",
           price: "$499.00",
         },
       ],
@@ -208,17 +208,17 @@ const invoiceList = [
       items: [
         {
           id: 1,
-          item: "Veltrix - Bootstrap 4 Admin Dashboard",
+          item: "Sunlife Admin Dashboard",
           price: "$499.00",
         },
         {
           id: 2,
-          item: "Veltrix - Bootstrap 4 Landing Template",
+          item: "Sunlife  Landing Template",
           price: "$399.00",
         },
         {
           id: 3,
-          item: "Veltrix - Bootstrap 4 Admin Template",
+          item: "Sunlife  Admin Template",
           price: "$499.00",
         },
       ],
@@ -246,17 +246,17 @@ const invoiceList = [
       items: [
         {
           id: 1,
-          item: "Veltrix - Bootstrap 4 Admin Dashboard",
+          item: "Sunlife Admin Dashboard",
           price: "$499.00",
         },
         {
           id: 2,
-          item: "Veltrix - Bootstrap 4 Landing Template",
+          item: "Sunlife  Landing Template",
           price: "$399.00",
         },
         {
           id: 3,
-          item: "Veltrix - Bootstrap 4 Admin Template",
+          item: "Sunlife  Admin Template",
           price: "$499.00",
         },
       ],
@@ -284,17 +284,17 @@ const invoiceList = [
       items: [
         {
           id: 1,
-          item: "Veltrix - Bootstrap 4 Admin Dashboard",
+          item: "Sunlife Admin Dashboard",
           price: "$499.00",
         },
         {
           id: 2,
-          item: "Veltrix - Bootstrap 4 Landing Template",
+          item: "Sunlife  Landing Template",
           price: "$399.00",
         },
         {
           id: 3,
-          item: "Veltrix - Bootstrap 4 Admin Template",
+          item: "Sunlife  Admin Template",
           price: "$499.00",
         },
       ],
@@ -322,17 +322,17 @@ const invoiceList = [
       items: [
         {
           id: 1,
-          item: "Veltrix - Bootstrap 4 Admin Dashboard",
+          item: "Sunlife Admin Dashboard",
           price: "$499.00",
         },
         {
           id: 2,
-          item: "Veltrix - Bootstrap 4 Landing Template",
+          item: "Sunlife  Landing Template",
           price: "$399.00",
         },
         {
           id: 3,
-          item: "Veltrix - Bootstrap 4 Admin Template",
+          item: "Sunlife  Admin Template",
           price: "$499.00",
         },
       ],

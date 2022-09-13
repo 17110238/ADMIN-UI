@@ -14,7 +14,7 @@ const IconDripicons = () => {
           <title>Dripicons | UI Sample</title>
         </MetaTags>
         <Container fluid>
-          <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Dripicons" />
+          <Breadcrumbs maintitle="Home"  title="Icons" breadcrumbItem="Dripicons" />
 
           <Row>
             <Col xs="12">

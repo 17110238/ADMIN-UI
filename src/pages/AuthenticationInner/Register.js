@@ -7,7 +7,7 @@ import { Link } from "react-router-dom"
 import { Row, Col, CardBody, Card, Container } from "reactstrap"
 
 // import images
-import logoSm from "../../assets/images/logo-sm.png";
+import logoSm from "../../assets/images/logo-sm.jpg";
 
 const Register = () => {
   return (

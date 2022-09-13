@@ -37,7 +37,7 @@ const FormElements = () => {
           <title>Form Elements | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form Elements" />
+          <Breadcrumbs maintitle="Home"  title="Form" breadcrumbItem="Form Elements" />
 
           <Row>
             <Col>

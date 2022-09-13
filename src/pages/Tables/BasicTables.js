@@ -22,7 +22,7 @@ const BasicTable = () => {
           <title>Basic Tables | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
-          <Breadcrumbs maintitle="Veltrix" title="Tables" breadcrumbItem="Basic Tables" />
+          <Breadcrumbs maintitle="Home"  title="Tables" breadcrumbItem="Basic Tables" />
 
           <Row>
             <Col md={6}>

@@ -14,7 +14,7 @@ const EmailAlertTemplte = props => {
         <MetaTags>
           <title>Alert Email | UI Sample</title>
         </MetaTags>
-          <Breadcrumbs maintitle="Veltrix" title="Email Template" breadcrumbItem="Alert Email" />
+          <Breadcrumbs maintitle="Home"  title="Email Template" breadcrumbItem="Alert Email" />
 
           <Row className="email-template">
             <Col md={12}>

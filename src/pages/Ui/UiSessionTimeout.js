@@ -75,7 +75,7 @@ class UiSessionTimeout extends Component {
           <Container fluid={true}>
             {this.state.timeralert}
 
-            <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Session Timeout" />
+            <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Session Timeout" />
 
             <Row>
               <Col>

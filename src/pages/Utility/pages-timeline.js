@@ -20,7 +20,7 @@ const PagesTimeline = () => {
         </MetaTags>
         <div className="container-fluid">
           {/* Render Breadcrumbs */}
-          <Breadcrumbs maintitle="Veltrix" title="Extra Pages" breadcrumbItem="Timeline" />
+          <Breadcrumbs maintitle="Home"  title="Extra Pages" breadcrumbItem="Timeline" />
 
             <Row>
               <Col lg={12}>

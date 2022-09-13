@@ -16,8 +16,8 @@ import {
 } from "reactstrap"
 
 // import images
-import logodark from "../../assets/images/logo-dark.png"
-import logolight from "../../assets/images/logo-light.png"
+import logodark from "../../assets/images/logo-dark.jpg"
+import logolight from "../../assets/images/logo-light.jpg"
 
 const TwostepVerification = () => {
     return (

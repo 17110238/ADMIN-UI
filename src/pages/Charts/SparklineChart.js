@@ -22,7 +22,7 @@ const SparklineChart = () => {
         </MetaTags>
         <div className="container-fluid">
           {/* Render Breadcrumb */}
-          <Breadcrumbs maintitle="Veltrix" title="Charts" breadcrumbItem="Sparkline Charts" />
+          <Breadcrumbs maintitle="Home"  title="Charts" breadcrumbItem="Sparkline Charts" />
 
           <Row>
             <Col sm={4}>

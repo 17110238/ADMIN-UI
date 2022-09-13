@@ -28,7 +28,7 @@ const UiCarousel = () => {
           <title>Carousel | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Carousel" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Carousel" />
 
           <Row>
             <Col lg={6}>

@@ -22,7 +22,7 @@ const EmailInbox = () => {
       </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}
-          <Breadcrumbs maintitle="Veltrix" title="Email" breadcrumbItem="Inbox" />
+          <Breadcrumbs maintitle="Home"  title="Email" breadcrumbItem="Inbox" />
 
           <Row>
             <Col xs="12">

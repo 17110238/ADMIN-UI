@@ -26,7 +26,7 @@ const EmailRead = () => {
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}
-          <Breadcrumbs maintitle="Veltrix" title="Email" breadcrumbItem="Read Email" />
+          <Breadcrumbs maintitle="Home"  title="Email" breadcrumbItem="Read Email" />
 
           <Row>
             <Col xs="12">

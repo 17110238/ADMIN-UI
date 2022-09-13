@@ -39,12 +39,12 @@ const UiCards = props => {
           <title>Cards | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Cards" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Cards" />
 
           <Row>
             <Col md={6} lg={6} xl={3}>
               <Card>
-                <CardImg top className="img-fluid" src={img1} alt="Veltrix" />
+                <CardImg top className="img-fluid" src={img1} alt="Home"  />
                 <CardBody>
                   <CardTitle className="h4">Card title</CardTitle>
                   <p className="card-text">
@@ -62,7 +62,7 @@ const UiCards = props => {
             </Col>
             <Col md={6} lg={6} xl={3}>
               <Card>
-                <CardImg top className="img-fluid" src={img2} alt="Veltrix" />
+                <CardImg top className="img-fluid" src={img2} alt="Home"  />
                 <CardBody>
                   <CardTitle className="h4">Card title</CardTitle>
                   <p className="card-text">
@@ -87,7 +87,7 @@ const UiCards = props => {
 
             <Col md={6} lg={6} xl={3}>
               <Card>
-                <CardImg top className="img-fluid" src={img3} alt="Veltrix" />
+                <CardImg top className="img-fluid" src={img3} alt="Home"  />
                 <CardBody>
                   <p className="card-text">
                     Some quick example text to build on the card title and make
@@ -104,7 +104,7 @@ const UiCards = props => {
                     Support card subtitle
                   </h6>
                 </CardBody>
-                <CardImg className="img-fluid" src={img4} alt="Veltrix" />
+                <CardImg className="img-fluid" src={img4} alt="Home"  />
                 <CardBody>
                   <p className="card-text">
                     Some quick example text to build on the card title and make
@@ -267,7 +267,7 @@ const UiCards = props => {
           <Row>
             <Col lg={4}>
               <Card>
-                <CardImg top className="img-fluid" src={img5} alt="Veltrix" />
+                <CardImg top className="img-fluid" src={img5} alt="Home"  />
                 <CardBody>
                   <CardTitle className="h4">Card title</CardTitle>
                   <p className="card-text">
@@ -299,13 +299,13 @@ const UiCards = props => {
                     </small>
                   </p>
                 </CardBody>
-                <CardImg bottom className="img-fluid" src={img7} alt="Veltrix" />
+                <CardImg bottom className="img-fluid" src={img7} alt="Home"  />
               </Card>
             </Col>
 
             <Col lg={4}>
               <Card className="text-white">
-                <CardImg className="img-fluid" src={img6} alt="Veltrix" />
+                <CardImg className="img-fluid" src={img6} alt="Home"  />
                 <CardImgOverlay>
                   <CardTitle className="text-white mt-0 h4">Card title</CardTitle>
                   <p className="card-text">
@@ -435,7 +435,7 @@ const UiCards = props => {
               <CardDeck className="card-deck-wrapper">
                 <div className="card-group">
                   <Card className="mb-4">
-                    <CardImg top className="img-fluid" src={img4} alt="Veltrix" />
+                    <CardImg top className="img-fluid" src={img4} alt="Home"  />
                     <CardBody>
                       <CardTitle className="h4">Card title</CardTitle>
                       <p className="card-text">
@@ -451,7 +451,7 @@ const UiCards = props => {
                     </CardBody>
                   </Card>
                   <Card className="mb-4">
-                    <CardImg top className="img-fluid" src={img5} alt="Veltrix" />
+                    <CardImg top className="img-fluid" src={img5} alt="Home"  />
                     <CardBody>
                       <CardTitle className="h4">Card title</CardTitle>
                       <p className="card-text">
@@ -466,7 +466,7 @@ const UiCards = props => {
                     </CardBody>
                   </Card>
                   <Card className="mb-4">
-                    <CardImg top className="img-fluid" src={img6} alt="Veltrix" />
+                    <CardImg top className="img-fluid" src={img6} alt="Home"  />
                     <CardBody>
                       <CardTitle className="h4">Card title</CardTitle>
                       <p className="card-text">

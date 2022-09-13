@@ -71,7 +71,7 @@ const FormWizard = () => {
           <title>Form Wizard | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Forms" breadcrumbItem="Form Wizard" />
+          <Breadcrumbs maintitle="Home"  title="Forms" breadcrumbItem="Form Wizard" />
 
           <Row>
             <Col sm="12">

@@ -22,7 +22,7 @@ const MapsLeaflet = () => {
           <title>Leaflet Maps | UI Sample</title>
         </MetaTags>
         <Container fluid>
-          <Breadcrumbs maintitle="Veltrix" title="Maps" breadcrumbItem="Leaflet Maps" />
+          <Breadcrumbs maintitle="Home"  title="Maps" breadcrumbItem="Leaflet Maps" />
           <Row>
             <Col lg="6">
               <Card>

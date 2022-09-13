@@ -24,7 +24,7 @@ const MapsGoogle = props => {
           <title>Google Maps | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
-          <Breadcrumbs maintitle="Veltrix" title="Maps" breadcrumbItem="Google Maps" />
+          <Breadcrumbs maintitle="Home"  title="Maps" breadcrumbItem="Google Maps" />
 
           <Row>
             <Col lg={6}>

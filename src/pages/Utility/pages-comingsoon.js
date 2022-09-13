@@ -7,7 +7,7 @@ import { Container, Row, Col } from "reactstrap"
 import Countdown from "react-countdown"
 
 //Import Images
-import logoDark from "../../assets/images/logo-dark.png";
+import logoDark from "../../assets/images/logo-dark.jpg";
 
 const PagesComingsoon = () => {
   const renderer = ({ days, hours, minutes, seconds, completed }) => {

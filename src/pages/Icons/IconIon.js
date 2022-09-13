@@ -14,7 +14,7 @@ const IconIon = props => {
           <title>Ion Icons | UI Sample</title>
         </MetaTags>
         <Container fluid>
-          <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Ion Icons" />
+          <Breadcrumbs maintitle="Home"  title="Icons" breadcrumbItem="Ion Icons" />
 
           <Row>
             <Col md={12}>

@@ -54,7 +54,7 @@ const UiDropdown = () => {
           <title>Dropdowns | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Dropdowns" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Dropdowns" />
 
           <Row>
             <Col lg={6}>

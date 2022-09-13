@@ -60,7 +60,7 @@ const IconBoxicons = props => {
           <title>Boxicons | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Boxicons" />
+          <Breadcrumbs maintitle="Home"  title="Icons" breadcrumbItem="Boxicons" />
           
           <Row>
             <Col>

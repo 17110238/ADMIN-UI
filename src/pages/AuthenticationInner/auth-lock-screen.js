@@ -8,7 +8,7 @@ import { Link } from "react-router-dom"
 import { Container, Row, Col, CardBody, Card, Button } from "reactstrap"
 
 // import images
-import logo from "../../assets/images/logo-sm.png";
+import logo from "../../assets/images/logo-sm.jpg";
 import avatar from "../../assets/images/users/user-1.jpg"
 
 const LockScreen = () => {

@@ -24,7 +24,7 @@ const UiAlert = () => {
           <title>Alerts | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Alerts" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Alerts" />
 
           <Row>
             <Col lg={6}>

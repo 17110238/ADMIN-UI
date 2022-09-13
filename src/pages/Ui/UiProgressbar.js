@@ -13,7 +13,7 @@ const UiProgressbar = () => {
           <title>Progress Bars | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Progress Bars" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Progress Bars" />
 
           <Row>
             <Col lg={6}>

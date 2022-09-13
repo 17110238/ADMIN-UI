@@ -44,7 +44,7 @@ const EditableTables = () => {
           <title>Editable Tables | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
-          <Breadcrumbs maintitle="Veltrix" title="Tables" breadcrumbItem="Editable Table" />
+          <Breadcrumbs maintitle="Home"  title="Tables" breadcrumbItem="Editable Table" />
 
           <Row>
             <Col>

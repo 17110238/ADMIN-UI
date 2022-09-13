@@ -16,7 +16,7 @@ function index(props) {
           <title>Blog List | UI Sample</title>
         </MetaTags>
         <Container fluid>
-          <Breadcrumbs maintitle="Veltrix" title="Blog" breadcrumbItem="Blog List" />
+          <Breadcrumbs maintitle="Home"  title="Blog" breadcrumbItem="Blog List" />
           <Row>
             <BlogList />
             <RightBar />

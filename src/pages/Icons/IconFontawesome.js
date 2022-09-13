@@ -66,7 +66,7 @@ const IconFontawesome = props => {
           <title>Font awesome | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Font awesome" />
+          <Breadcrumbs maintitle="Home"  title="Icons" breadcrumbItem="Font awesome" />
 
           <Row>
             <Col xs="12">

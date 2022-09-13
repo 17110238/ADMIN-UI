@@ -13,7 +13,7 @@ import {
 } from "reactstrap"
 
 // import images
-import logo from "../../assets/images/logo-sm.png";
+import logo from "../../assets/images/logo-sm.jpg";
 
 const Recoverpw = () => {
   return (

@@ -27,7 +27,7 @@ const UiButtons = () => {
           <title>Buttons | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Buttons" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Buttons" />
 
           <Row>
             <Col lg={6}>

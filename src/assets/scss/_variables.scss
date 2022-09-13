@@ -4,13 +4,13 @@
 // custom-variables
 //
 // Vertical Sidebar - Dark
-$sidebar-dark-bg: #fff; //2c313a
+$sidebar-dark-bg: #383b4e; //2c313a
 $sidebar-dark-menu-item-color: #8699ad;
 $sidebar-dark-menu-sub-item-color: #8699ad;
 $sidebar-dark-menu-item-icon-color: #8699ad;
-$sidebar-dark-menu-item-hover-color: #b4c9de;
+$sidebar-dark-menu-item-hover-color: #f8b425;
 $sidebar-dark-menu-item-active-color: #f8b425;
-$sidebar-dark-menu-item-active-bg: #383b4e;
+$sidebar-dark-menu-item-active-bg: #fff;
 $sidebar-width:  240px;
 $sidebar-collapsed-width:  70px;
 $sidebar-width-sm:  160px;
@@ -31,9 +31,9 @@ $sidebar-colored-bg: #f8b425; //2c313a
 $sidebar-colored-menu-item-color: rgba($white, 0.7);
 $sidebar-colored-menu-sub-item-color: rgba($white, 0.7);
 $sidebar-colored-menu-item-icon-color: rgba($white, 0.7);
-$sidebar-colored-menu-item-hover-color: rgba($white, 1.0);
-$sidebar-colored-menu-item-active-color: rgba($white, 1.0);
-$sidebar-colored-menu-item-active-bg: #f8b425;
+$sidebar-colored-menu-item-hover-color: rgba($orange, 1.0);
+$sidebar-colored-menu-item-active-color: rgba($red, 1.0);
+$sidebar-colored-menu-item-active-bg: #fff;
 
 // Topbar - Deafult Light
 $header-height: 70px;

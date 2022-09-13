@@ -50,7 +50,7 @@ const CarouselPage = () => {
                               <div className="py-3">
                                 <p className="font-size-16 mb-4">
                                   "If Every Vendor on Envato are as supportive as
-                                  Themesbrand, Development with be a nice
+                                  VNIT, Development with be a nice
                                   experience. You guys are Wonderful. Keep us the
                                   good work. "
                               </p>

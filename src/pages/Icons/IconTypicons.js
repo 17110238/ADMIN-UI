@@ -14,7 +14,7 @@ const IconTypicons = props => {
                     <title>Typicons Icons | UI Sample</title>
                 </MetaTags>
                 <Container fluid={true}>
-                    <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Typicons Icons" />
+                    <Breadcrumbs maintitle="Home"  title="Icons" breadcrumbItem="Typicons Icons" />
 
                     <Row>
                         <div className="col-12">

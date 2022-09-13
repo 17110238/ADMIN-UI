@@ -20,7 +20,7 @@ const Apexchart = () => {
           <title>Apex Charts | UI Sample</title>
         </MetaTags>
         <div className="container-fluid">
-          <Breadcrumbs maintitle="Veltrix" title="Charts" breadcrumbItem="Apex Charts" />
+          <Breadcrumbs maintitle="Home"  title="Charts" breadcrumbItem="Apex Charts" />
 
           <Row>
             <Col lg={6}>

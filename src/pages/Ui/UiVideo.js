@@ -14,7 +14,7 @@ const UiVideo = () => {
           <title>Video | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Video" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Video" />
 
           <Row>
             <Col lg={6}>

@@ -26,7 +26,7 @@ const PagesDirectory = () => {
         </MetaTags>
         <div className="container-fluid">
           {/* Render Breadcrumbs */}
-          <Breadcrumbs maintitle="Veltrix" title="Extra Pages" breadcrumbItem="Directory" />
+          <Breadcrumbs maintitle="Home"  title="Extra Pages" breadcrumbItem="Directory" />
           <Row>
             <Col xl={4} md={6}>
               <Card className="directory-card">
@@ -42,7 +42,7 @@ const PagesDirectory = () => {
                         Jerome A. Hebert
                       </h5>
                       <p className="font-size-12 mb-2">Creative Director</p>
-                      <p className="mb-0">Jerome@veltrix.com</p>
+                      <p className="mb-0">Jerome@sunlife.com</p>
                     </div>
                     <ul className="list-unstyled social-links ms-auto">
                       <li>
@@ -84,7 +84,7 @@ const PagesDirectory = () => {
                         Adam V. Acker
                       </h5>
                       <p className="font-size-12 mb-2">Creative Director</p>
-                      <p className="mb-0">Adam@veltrix.com</p>
+                      <p className="mb-0">Adam@sunlife.com</p>
                     </div>
                     <ul className="list-unstyled social-links ms-auto">
                       <li>
@@ -126,7 +126,7 @@ const PagesDirectory = () => {
                         Stanley M. Dyke
                       </h5>
                       <p className="font-size-12 mb-2">Creative Director</p>
-                      <p className="mb-0">Stanley@veltrix.com</p>
+                      <p className="mb-0">Stanley@sunlife.com</p>
                     </div>
                     <ul className="list-unstyled social-links ms-auto">
                       <li>
@@ -169,7 +169,7 @@ const PagesDirectory = () => {
                         Ben J. Mathison
                       </h5>
                       <p className="font-size-12 mb-2">Creative Director</p>
-                      <p className="mb-0">Ben@veltrix.com</p>
+                      <p className="mb-0">Ben@sunlife.com</p>
                     </div>
                     <ul className="list-unstyled social-links ms-auto">
                       <li>
@@ -212,7 +212,7 @@ const PagesDirectory = () => {
                         John V. Bailey
                       </h5>
                       <p className="font-size-12 mb-2">Creative Director</p>
-                      <p className="mb-0">John@veltrix.com</p>
+                      <p className="mb-0">John@sunlife.com</p>
                     </div>
                     <ul className="list-unstyled social-links ms-auto">
                       <li>
@@ -254,7 +254,7 @@ const PagesDirectory = () => {
                         Antonio J. Thomas
                       </h5>
                       <p className="font-size-12 mb-2">Creative Director</p>
-                      <p className="mb-0">Antonio@veltrix.com</p>
+                      <p className="mb-0">Antonio@sunlife.com</p>
                     </div>
                     <ul className="list-unstyled social-links ms-auto">
                       <li>
@@ -297,7 +297,7 @@ const PagesDirectory = () => {
                         Jerome A. Hebert
                       </h5>
                       <p className="font-size-12 mb-2">Creative Director</p>
-                      <p className="mb-0">Jerome@veltrix.com</p>
+                      <p className="mb-0">Jerome@sunlife.com</p>
                     </div>
                     <ul className="list-unstyled social-links ms-auto">
                       <li>
@@ -340,7 +340,7 @@ const PagesDirectory = () => {
                         Adam V. Acker
                       </h5>
                       <p className="font-size-12 mb-2">Creative Director</p>
-                      <p className="mb-0">Adam@veltrix.com</p>
+                      <p className="mb-0">Adam@sunlife.com</p>
                     </div>
                     <ul className="list-unstyled social-links ms-auto">
                       <li>
@@ -382,7 +382,7 @@ const PagesDirectory = () => {
                         Stanley M. Dyke
                       </h5>
                       <p className="font-size-12 mb-2">Creative Director</p>
-                      <p className="mb-0">Stanley@veltrix.com</p>
+                      <p className="mb-0">Stanley@sunlife.com</p>
                     </div>
                     <ul className="list-unstyled social-links ms-auto">
                       <li>

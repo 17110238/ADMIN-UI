@@ -32,7 +32,7 @@ const PagesFaqs = () => {
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}
-          <Breadcrumbs maintitle="Veltrix" title="Extra Pages" breadcrumbItem="FAQs" />
+          <Breadcrumbs maintitle="Home"  title="Extra Pages" breadcrumbItem="FAQs" />
 
 
           <Row>

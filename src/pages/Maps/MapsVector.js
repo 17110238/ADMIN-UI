@@ -22,7 +22,7 @@ const MapsVector = () => {
           <title>Vector Maps | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Maps" breadcrumbItem="Vector Maps" />
+          <Breadcrumbs maintitle="Home"  title="Maps" breadcrumbItem="Vector Maps" />
 
           <Row>
             <Col lg={6}>

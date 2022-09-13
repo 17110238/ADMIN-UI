@@ -14,7 +14,7 @@ const PagesStarter = () => {
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}
-          <Breadcrumbs maintitle="Veltrix" title="Extra Pages" breadcrumbItem="Starter Page" />
+          <Breadcrumbs maintitle="Home"  title="Extra Pages" breadcrumbItem="Starter Page" />
         </Container>
       </div>
     </React.Fragment>

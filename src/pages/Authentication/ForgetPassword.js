@@ -14,7 +14,7 @@ import { AvForm, AvField } from "availity-reactstrap-validation"
 import { userForgetPassword } from "../../store/actions"
 
 // import images
-import logoSm from "../../assets/images/logo-sm.png";
+import logoSm from "../../assets/images/logo-sm.jpg";
 
 const ForgetPasswordPage = props => {
   function handleValidSubmit(event, values) {

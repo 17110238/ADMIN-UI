@@ -36,7 +36,7 @@ const FormRepeater = () => {
           <title>Form Repeater | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Forms" breadcrumbItem="Form Repeater" />
+          <Breadcrumbs maintitle="Home"  title="Forms" breadcrumbItem="Form Repeater" />
 
           <Row>
             <Col xs={12}>

@@ -12,7 +12,7 @@ const IconThemify = props => {
                     <title>Themify Icons | UI Sample</title>
                 </MetaTags>
                 <Container fluid={true}>
-                    <Breadcrumbs maintitle="Veltrix" title="Icons" breadcrumbItem="Themify Icons" />
+                    <Breadcrumbs maintitle="Home"  title="Icons" breadcrumbItem="Themify Icons" />
 
                     <Row>
                         <Col md="12">

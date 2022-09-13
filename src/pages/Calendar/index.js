@@ -189,7 +189,7 @@ const Calender = props => {
         </MetaTags>
         <Container fluid={true}>
           {/* Render Breadcrumb */}
-          <Breadcrumbs title="Veltrix" breadcrumbItem="Calendar" />
+          <Breadcrumbs title="Home"  breadcrumbItem="Calendar" />
           <Row>
             <Col className="col-12">
               <Row>

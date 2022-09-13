@@ -76,7 +76,7 @@ const UiModal = () => {
           <title>Modals | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Modals" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Modals" />
 
           <Row>
             <Col className="col-12">

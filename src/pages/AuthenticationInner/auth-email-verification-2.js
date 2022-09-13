@@ -3,8 +3,8 @@ import MetaTags from 'react-meta-tags';
 import CarouselPage from "./CarouselPage"
 
 // import images
-import logodark from "../../assets/images/logo-dark.png"
-import logolight from "../../assets/images/logo-light.png"
+import logodark from "../../assets/images/logo-dark.jpg"
+import logolight from "../../assets/images/logo-light.jpg"
 import { Col, Container, Row } from "reactstrap"
 
 const EmailVerification2 = () => {
@@ -69,8 +69,8 @@ const EmailVerification2 = () => {
                     <div className="mt-4 mt-md-5 text-center">
                       <p className="mb-0">
                         © {new Date().getFullYear()} Sunlife{" "}
-                        <i className="mdi mdi-heart text-danger"></i> by
-                          Themesbrand
+                        <i className="mdi mdi-heart text-danger"></i>
+                          VNIT
                         </p>
                     </div>
                   </div>

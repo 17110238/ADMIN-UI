@@ -50,7 +50,7 @@ const FormUpload = () => {
           <title>Form File Upload | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="Form" breadcrumbItem="Form File Upload" />
+          <Breadcrumbs maintitle="Home"  title="Form" breadcrumbItem="Form File Upload" />
 
           <Row>
             <Col className="col-12">

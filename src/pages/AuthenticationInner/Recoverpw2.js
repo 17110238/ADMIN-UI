@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 import { Card, Container, Form, FormGroup, Input, Label, Row } from "reactstrap"
 
 import bg from "../../assets/images/bg.jpg";
-import logoDark from "../../assets/images/logo-dark.png";
+import logoDark from "../../assets/images/logo-dark.jpg";
 
 import CarouselPage from "./CarouselPage"
 const Recoverpw2 = () => {
@@ -89,7 +89,7 @@ const Recoverpw2 = () => {
                         © {new Date().getFullYear()}{" "}
                         Sunlife{" "}
                         <i className="mdi mdi-heart text-danger"></i> by
-                        Themesbrand
+                        VNIT
                       </p>
                     </div>
                   </div>

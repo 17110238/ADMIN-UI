@@ -3,8 +3,8 @@ import CarouselPage from "./CarouselPage"
 import MetaTags from 'react-meta-tags';
 
 // import images
-import logodark from "../../assets/images/logo-dark.png"
-import logolight from "../../assets/images/logo-light.png"
+import logodark from "../../assets/images/logo-dark.jpg"
+import logolight from "../../assets/images/logo-light.jpg"
 import { Col, Container, Row } from "reactstrap"
 import { Link } from "react-router-dom"
 
@@ -66,7 +66,7 @@ const ConfirmMail2 = () => {
                       <p className="mb-0">
                         © {new Date().getFullYear()} Sunlife{" "}
                         <i className="mdi mdi-heart text-danger"></i> by
-                          Themesbrand
+                          VNIT
                         </p>
                     </div>
                   </div>

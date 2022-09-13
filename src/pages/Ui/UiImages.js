@@ -35,7 +35,7 @@ const UiImages = () => {
           <title>Images | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="Images" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="Images" />
 
           <Row>
             <Col lg={6}>

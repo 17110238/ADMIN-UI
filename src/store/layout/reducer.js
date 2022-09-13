@@ -13,7 +13,7 @@ import {
 const INIT_STATE = {
   layoutType: "",
   layoutWidth: "fluid",
-  leftSideBarTheme: "dark",
+  leftSideBarTheme: "light",
   leftSideBarType: "default",
   topbarTheme: "light",
   showRightSidebar: false,

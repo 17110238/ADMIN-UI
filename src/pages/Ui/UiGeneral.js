@@ -43,7 +43,7 @@ const UiGeneral = () => {
           <title>General | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Veltrix" title="UI Elements" breadcrumbItem="General" />
+          <Breadcrumbs maintitle="Home"  title="UI Elements" breadcrumbItem="General" />
 
           <Row>
             <Col lg={12}>
