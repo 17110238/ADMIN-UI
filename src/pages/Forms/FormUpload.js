@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import MetaTags from 'react-meta-tags';
+import MetaTags from "react-meta-tags"
 import {
   Row,
   Col,
@@ -30,9 +30,6 @@ const FormUpload = () => {
     setselectedFiles(files)
   }
 
-  /**
-   * Formats the size
-   */
   function formatBytes(bytes, decimals = 2) {
     if (bytes === 0) return "0 Bytes"
     const k = 1024
@@ -50,7 +47,11 @@ const FormUpload = () => {
           <title>Form File Upload | UI Sample</title>
         </MetaTags>
         <Container fluid={true}>
-          <Breadcrumbs maintitle="Home"  title="Form" breadcrumbItem="Form File Upload" />
+          <Breadcrumbs
+            maintitle="Home"
+            title="Form"
+            breadcrumbItem="Form File Upload"
+          />
 
           <Row>
             <Col className="col-12">
@@ -83,7 +84,10 @@ const FormUpload = () => {
                           </div>
                         )}
                       </Dropzone>
-                      <div className="dropzone-previews mt-3" id="file-previews">
+                      <div
+                        className="dropzone-previews mt-3"
+                        id="file-previews"
+                      >
                         {selectedFiles.map((f, i) => {
                           return (
                             <Card

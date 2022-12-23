@@ -1,5 +1,5 @@
 import React from "react"
-import MetaTags from 'react-meta-tags';
+import MetaTags from "react-meta-tags"
 
 import { Link } from "react-router-dom"
 import { Container, Row, Col, Button, Input, Label, Card } from "reactstrap"
@@ -17,12 +17,12 @@ const EmailInbox = () => {
   return (
     <React.Fragment>
       <div className="page-content">
-      <MetaTags>
-        <title>Inbox | UI Sample</title>
-      </MetaTags>
+        <MetaTags>
+          <title>Inbox | UI Sample</title>
+        </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}
-          <Breadcrumbs maintitle="Home"  title="Email" breadcrumbItem="Inbox" />
+          <Breadcrumbs maintitle="Home" title="Email" breadcrumbItem="Inbox" />
 
           <Row>
             <Col xs="12">
@@ -38,12 +38,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk19" />
-                          <Label htmlFor="chk19" className="toggle"/>
+                          <Label htmlFor="chk19" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Peter, me (3)
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -61,12 +61,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk20" />
-                          <Label htmlFor="chk20" className="toggle"/>
+                          <Label htmlFor="chk20" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           me, Susanna (7)
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -88,12 +88,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk6" />
-                          <Label htmlFor="chk6" className="toggle"/>
+                          <Label htmlFor="chk6" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Web Support Dennis
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -109,12 +109,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk7" />
-                          <Label htmlFor="chk7" className="toggle"/>
+                          <Label htmlFor="chk7" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           me, Peter (2)
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -132,18 +132,16 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk8" />
-                          <Label htmlFor="chk8" className="toggle"/>
+                          <Label htmlFor="chk8" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Medium
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
-                          <span className="bg-primary badge me-2">
-                            Social
-                          </span>
+                          <span className="bg-primary badge me-2">Social</span>
                           This Week's Top Stories –{" "}
                           <span className="teaser">
                             Our top pick for you on Medium this week The Man Who
@@ -157,12 +155,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk9" />
-                          <Label htmlFor="chk9" className="toggle"/>
+                          <Label htmlFor="chk9" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Death to Stock
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -180,18 +178,16 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk3" />
-                          <Label htmlFor="chk3" className="toggle"/>
+                          <Label htmlFor="chk3" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Randy, me (5)
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
-                          <span className="bg-success badge me-2">
-                            Family
-                          </span>
+                          <span className="bg-success badge me-2">Family</span>
                           Last pic over my village –{" "}
                           <span className="teaser">
                             Yeah i'd like that! Do you remember the video you
@@ -207,12 +203,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk4" />
-                          <Label htmlFor="chk4" className="toggle"/>
+                          <Label htmlFor="chk4" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Andrew Zimmer
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -230,12 +226,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk5" />
-                          <Label htmlFor="chk5" className="toggle"/>
+                          <Label htmlFor="chk5" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Infinity HR
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -253,18 +249,16 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk10" />
-                          <Label htmlFor="chk10" className="toggle"/>
+                          <Label htmlFor="chk10" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Revibe
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
-                          <span className="bg-danger badge me-2">
-                            Friends
-                          </span>
+                          <span className="bg-danger badge me-2">Friends</span>
                           Weekend on Revibe –{" "}
                           <span className="teaser">
                             Today's Friday and we thought maybe you want some
@@ -280,12 +274,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk11" />
-                          <Label htmlFor="chk11" className="toggle"/>
+                          <Label htmlFor="chk11" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Erik, me (5)
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -301,18 +295,16 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk12" />
-                          <Label htmlFor="chk12" className="toggle"/>
+                          <Label htmlFor="chk12" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           KanbanFlow
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
-                          <span className="bg-primary badge me-2">
-                            Social
-                          </span>
+                          <span className="bg-primary badge me-2">Social</span>
                           Task assigned: Clone ARP's website –{" "}
                           <span className="teaser">
                             You have been assigned a task by Alex@Work on the
@@ -326,12 +318,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk13" />
-                          <Label htmlFor="chk13" className="toggle"/>
+                          <Label htmlFor="chk13" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Tobias Berggren
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -348,12 +340,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk14" />
-                          <Label htmlFor="chk14" className="toggle"/>
+                          <Label htmlFor="chk14" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Charukaw, me (7)
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -369,12 +361,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk15" />
-                          <Label htmlFor="chk15" className="toggle"/>
+                          <Label htmlFor="chk15" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           me, Peter (5)
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -391,12 +383,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk16" />
-                          <Label htmlFor="chk16" className="toggle"/>
+                          <Label htmlFor="chk16" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Stack Exchange
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -413,12 +405,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk17" />
-                          <Label htmlFor="chk17" className="toggle"/>
+                          <Label htmlFor="chk17" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           Google Drive Team
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -435,12 +427,12 @@ const EmailInbox = () => {
                       <div className="col-mail col-mail-1">
                         <div className="checkbox-wrapper-mail">
                           <Input type="checkbox" id="chk18" />
-                          <Label htmlFor="chk18" className="toggle"/>
+                          <Label htmlFor="chk18" className="toggle" />
                         </div>
                         <Link to="#" className="title">
                           me, Susanna (11)
                         </Link>
-                        <span className="star-toggle far fa-star"/>
+                        <span className="star-toggle far fa-star" />
                       </div>
                       <div className="col-mail col-mail-2">
                         <Link to="#" className="subject">
@@ -465,7 +457,7 @@ const EmailInbox = () => {
                         size="sm"
                         className="waves-effect"
                       >
-                        <i className="fa fa-chevron-left"/>
+                        <i className="fa fa-chevron-left" />
                       </Button>
                       <Button
                         type="button"
@@ -473,7 +465,7 @@ const EmailInbox = () => {
                         size="sm"
                         className="waves-effect"
                       >
-                        <i className="fa fa-chevron-right"/>
+                        <i className="fa fa-chevron-right" />
                       </Button>
                     </div>
                   </Col>
